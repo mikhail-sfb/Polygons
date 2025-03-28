@@ -1,0 +1,2 @@
+- designed for IPad's
+- adding vectors by drawing them
